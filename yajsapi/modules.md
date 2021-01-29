@@ -1,6 +1,6 @@
 # API Reference
 
-## yajsapi
+## yajsapi3
 
 ### Table of contents
 
