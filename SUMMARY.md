@@ -4,3 +4,4 @@
 * [two](two.md)
 * [XXX](yajsapi/yajsapi.md)
 * [XXX 2](yajsapi/modules.md)
+* [crypto](modules/crypto.md)
