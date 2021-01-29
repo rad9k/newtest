@@ -1,6 +1,6 @@
 [yajsapi](README.md) / Exports
 
-# yajsapi
+# yajsapi2
 
 ## Table of contents
 
